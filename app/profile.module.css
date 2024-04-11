@@ -1,0 +1,8 @@
+/* In module css only class name can be given not element
+    name.
+    Also encryption is done automatically for classnames.
+*/
+
+.myheading{
+    font-size: 32px;
+}
